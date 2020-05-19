@@ -10,3 +10,5 @@ hogeaar lib
 1 プロジェクトレベルのbuild.gradle: allprojects > repogitory > maven { url 'https://raw.github.com/pedalnote-saijo/test-aar/master/repository' } 追加
 2 アプリレベルのbuild.gradle: dependencies > implementation 'jp.forista.hogeaar:hogeaar-saijo:1.0.0' 追加 (${groupId}:${artifactId}:${version}
 
+
+hoge
